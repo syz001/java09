@@ -8,6 +8,8 @@ public class Test {
 				if(c[i]==c[j]) {
 					System.out.println(c[i]);
 					return;
+					
+					///
 				}
 			}
 		}
